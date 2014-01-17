@@ -1,0 +1,5 @@
+AuthGroupFile /dev/null
+AuthType Basic
+AuthUserFile /home/r41745/domains/russianmodernisation.fi/.htpasswd/public_html/intra/.htpasswd
+AuthName "Member's Area!!"
+require valid-user
