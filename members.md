@@ -16,8 +16,8 @@ title: Members
 | Jouko | Welfare, company paternalism, entrepreneurship | Urban agriculture, global trends in the countryside | Russia, Baltic states, Bulgaria |
 | Jouni | | | |
 | Katalin | Varieties of socialism, entrepreneurship, competition | Comparative study of the institutional change of socialist systems, the future of socialist formations, developing teaching of history and conflicts | East Central Europe, also Romania |
-| Markus | Welfare, post-socialism | Comparative research in Easter Europe, poverty, social transformation regarding foreign economic actors’ moves, software projects | Moldova, ‘new’ EU-countries |
-| Mila | Action space in state socialism, consumer culture, expert networks, identity | Cultural history, socialist marketing and trade, Polish-Russian relations, digital research methods | Poland | 
+| [Markus](http://markuskainu.fi) | Welfare, post-socialism | Comparative research in Easter Europe, poverty, social transformation regarding foreign economic actors’ moves, software projects | Moldova, ‘new’ EU-countries |
+| [Mila](http://historydrafts.blogspot.fi/) | Action space in state socialism, consumer culture, expert networks, identity | Cultural history, socialist marketing and trade, Polish-Russian relations, digital research methods | Poland | 
 | Riikka | Cold War East-West collaboration (small actors) | Western reception of Eastern scientific-cultural innovations, history of emotions (in protest movements) | Czech Republic |
 | Sari E. | | | |
 | Sigrid | National identity, societal development | New approaches to identity studies (triangle of European-ness – free movement – high tech society) | Estonia | 
