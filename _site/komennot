@@ -1,6 +1,0 @@
-###
-cd ~/workspace/web/site_russianmodernisationfi
-jekyll build
-###
-cd ~/workspace/web/site_russianmodernisationfi/_site
-lftp -u r41745 -e "mirror -R;quit" ftp://r41745@russianmodernisation.fi/domains/russianmodernisation.fi/public_html/

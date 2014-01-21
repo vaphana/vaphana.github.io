@@ -13,7 +13,7 @@ A very minimal example
 
 Once your are happy with how it looks like:
 
-1. create a new repository `username.github.io` at GitHub
+1. create a new repository `username.github.io`
 2. reset the remote for your project `git remote set-url origin git@github.com:username/username.github.io.git`
 3. add new files to git using `git add --all`
 4. commit the changes with `git commit -a -m "message comes here"`

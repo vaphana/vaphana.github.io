@@ -6,17 +6,13 @@ title: Resources
 Resources
 ==============
 
-Partners
--------------
+Publications
+--------------
 
-- [Aleksanteri institute](http://www.helsinki.fi/aleksanteri/)
-
-Areas of expertise
--------------------
-
-### Serbian hip hop
-
-![](http://d24w6bsrhbeh9d.cloudfront.net/photo/aLKLo4P_460sa.gif)
-
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras scelerisque venenatis nibh, nec molestie quam congue non. Mauris ante magna, ultrices sit amet lobortis ac, aliquam nec lacus.
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras scelerisque venenatis nibh, nec molestie quam congue non. Mauris ante magna, ultrices sit amet lobortis ac, aliquam nec lacus.
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras scelerisque venenatis nibh, nec molestie quam congue non. Mauris ante magna, ultrices sit amet lobortis ac, aliquam nec lacus.
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras scelerisque venenatis nibh, nec molestie quam congue non. Mauris ante magna, ultrices sit amet lobortis ac, aliquam nec lacus.
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras scelerisque venenatis nibh, nec molestie quam congue non. Mauris ante magna, ultrices sit amet lobortis ac, aliquam nec lacus.
 
 

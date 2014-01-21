@@ -1,7 +1,7 @@
-name: My Personal Academic website
+name: Eastern Europe Research Group
 description: Something here
 markdown: redcarpet
 redcarpet:
   extensions: ["tables"]
-pygments: false
+pygments: true
 url: http://digieast.github.io/academic-website/
