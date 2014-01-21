@@ -5,7 +5,8 @@ A very minimal example
 ## To run locally
 
 1. clone the repository with `git clone git@github.com:digieast/academic-website.git`
-2. Edit the content of .md files or create new ones
+2. `cd academic-website`
+2. edit the content of .md files or create new ones
 3. edit the links to pages & css files in `_layouts/default.html`
 4. edit the _config.yml and change the baseurl to match your future repository. It may be `http://username.github.io/`
 4. run `jekyll serve --watch --baseurl ''` to build the site locally and to react to your edits
