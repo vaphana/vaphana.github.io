@@ -4,4 +4,4 @@ markdown: redcarpet
 redcarpet:
   extensions: ["tables"]
 pygments: false
-url: http://digieast.github.io/academic-website
+url: http://digieast.github.io/academic-website/
