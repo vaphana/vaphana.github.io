@@ -6,7 +6,7 @@ title: Blog
 Blog
 ========================================
 
-<p>Blog RSS here: <a title="blog RSS" href="http://digieast.github.io/academic-website/feed.xml">
+<p>Blog RSS here: <a title="blog RSS" href="http://easterneurope.github.io/feed.xml">
                     <i class="fa fa-rss-square"></i></a></p>
 
 <div id="home">

@@ -14,10 +14,10 @@ Nam suscipit vulputate quam. Integer feugiat massa at nisi bibendum, a tincidunt
 
 ----
 
-## Latest in the blog
+Latest in the blog
+-------------------------------
 
-
-Blog RSS here: <a title="blog RSS" href="http://markuskainu.fi/blog/feed.xml">
+Blog RSS here: <a title="blog RSS" href="http://easterneurope.github.io/feed.xml">
                     <i class="fa fa-rss-square"></i></a>
 
 <div id="posts">
