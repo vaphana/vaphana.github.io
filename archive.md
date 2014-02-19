@@ -3,6 +3,10 @@ layout: default
 title: Blog archive
 ---
 
+
+Blog archive
+========================================
+
 <h2>Archive <small>all posts</small></h2>
 
 <div id="posts">

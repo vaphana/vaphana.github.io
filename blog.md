@@ -3,11 +3,14 @@ layout: default
 title: Blog
 ---
 
+Blog
+========================================
+
 <p>Blog RSS here: <a title="blog RSS" href="http://digieast.github.io/academic-website/feed.xml">
                     <i class="fa fa-rss-square"></i></a></p>
 
 <div id="home">
-  <h1>Blog Posts</h1>
+  <h2>Posts</h2>
   <ul class="posts">
     {% for post in site.posts %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
