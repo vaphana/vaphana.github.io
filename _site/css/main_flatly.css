@@ -303,7 +303,7 @@ body {
   font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 15px;
   line-height: 1.428571429;
-  color: #2c3e50;
+  color: #90a959;
   background-color: #ffffff;
 }
 
@@ -7732,3 +7732,4 @@ input[type="color"]:focus,
 .affix {
   position: fixed;
 }
+
