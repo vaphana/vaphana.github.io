@@ -4,4 +4,3 @@ markdown: redcarpet
 redcarpet:
   extensions: ["tables"]
 pygments: false
-baseurl: http://easterneurope.github.io/basic
