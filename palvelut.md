@@ -1,20 +1,14 @@
 ---
 layout: default
-title: Support & Services
+title: Palvelut
 ---
 
 
 
-Support & Services
+Palvelut
 ===================================
 
 
-R
------------------------------------
-
-Nam suscipit vulputate quam. Integer feugiat massa at nisi bibendum, a tincidunt nisl sollicitudin. Etiam massa eros, interdum at dignissim nec, accumsan vel purus. In odio augue, scelerisque non ultricies in, sollicitudin eget sapien. Duis dictum pharetra augue a ultrices. Aliquam non mattis metus, ornare congue erat. Nulla est tortor, pretium eu dui vitae, dignissim rhoncus nulla. Suspendisse pharetra sed erat porttitor molestie.
-
-<iframe width="780" height="420" src="//www.youtube.com/embed/TR2bHSJ_eck" frameborder="0" allowfullscreen></iframe>
 
 Nam suscipit vulputate quam. Integer feugiat massa at nisi bibendum, a tincidunt nisl sollicitudin. Etiam massa eros, interdum at dignissim nec, accumsan vel purus. In odio augue, scelerisque non ultricies in, sollicitudin eget sapien. Duis dictum pharetra augue a ultrices. Aliquam non mattis metus, ornare congue erat. Nulla est tortor, pretium eu dui vitae, dignissim rhoncus nulla. Suspendisse pharetra sed erat porttitor molestie.
 

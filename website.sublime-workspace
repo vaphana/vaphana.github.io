@@ -1,0 +1,232 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"s",
+				"stylesheet"
+			],
+			[
+				"markd",
+				"markdownToHTML"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 306.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"markdow",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read()) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/aurelius/Videot/byroo/videovpk.md",
+		"/home/aurelius/workspace/russia/ai-survey/compile.sh",
+		"/home/aurelius/workspace/russia/ai-survey/index.md",
+		"/home/aurelius/vaphana/keva/tara/docs/index.md",
+		"/home/aurelius/vaphana/keva/tara/docs/ohjelmistot.md",
+		"/home/aurelius/workspace/omat/tutorial/ubuntu/ubuntu1204.md",
+		"/home/aurelius/workspace/lits/clone/attributions/article2013.Rmd",
+		"/home/aurelius/vaphana/keva/byroo/valmistelu/asentaminen.md",
+		"/home/aurelius/workspace/ropengov/ropengov.github.io/_projects/sotkanet.md",
+		"/home/aurelius/workspace/hub_helsinki/open_data_kuvaus_padista.md",
+		"/home/aurelius/synkki.txt",
+		"/home/aurelius/workspace/russia/gaudeamus_kirja/byroo/kirjoitusohjeet.md",
+		"/home/aurelius/workspace/consulting/the-little-redis-book/en/redis.md",
+		"/home/aurelius/workspace/consulting/the-little-redis-book/readme.md",
+		"/home/aurelius/vaphana/website/web/index.md",
+		"/home/aurelius/vaphana/keva/tara/tex_templates/pdf-template.tex",
+		"/home/aurelius/vaphana/website/web/_layouts/default.html",
+		"/home/aurelius/vaphana/website/web/support_services.md",
+		"/home/aurelius/vaphana/website/web/about_us.md",
+		"/home/aurelius/workspace/ropengov/guidelines-docs/ropengov-guidelines/categories.md",
+		"/home/aurelius/vaphana/byroo/ohjeita.md",
+		"/home/aurelius/vaphana/keva/tara/R/compile.R",
+		"/home/aurelius/vaphana/byroo/tools/scripts.md",
+		"/home/aurelius/vaphana/byroo/tools/rmarkdown.css",
+		"/home/aurelius/workspace/consulting/keva_main/byroo/workflown_kuvaus/kuvaus_mkainu.md",
+		"/home/aurelius/workspace/consulting/keva_main/byroo/kuvaus_mkainu.md",
+		"/home/aurelius/workspace/consulting/keva_main/byroo/workflown_kuvaus/tarjous_mkainu.md",
+		"/home/aurelius/workspace/consulting/keva_main/workflown_kuvaus/tarjous_mkainu.md",
+		"/home/aurelius/workspace/eusilc/r-eusilc/vignettes/r.eusilc_tutorial.Rmd",
+		"/home/aurelius/workspace/phdthesis/compile.R",
+		"/home/aurelius/workspace/web/site_easterneurope/basic/README.md",
+		"/home/aurelius/workspace/web/site_easterneurope/basic/_layouts/default.html",
+		"/home/aurelius/workspace/web/site_easterneurope/basic/index.md",
+		"/home/aurelius/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/aurelius/workspace/web/site_easterneurope/basic/_posts/2014-02-24-balkan-environment.markdown",
+		"/home/aurelius/workspace/phdthesis/plan2013.md",
+		"/home/aurelius/workspace/phdthesis/plan2014.md",
+		"/home/aurelius/workspace/phdthesis/plan2011.md",
+		"/home/aurelius/workspace/phdthesis/plan2012.md",
+		"/home/aurelius/workspace/digieast/digicoffee/meetings.md",
+		"/home/aurelius/workspace/phdthesis/index.md",
+		"/home/aurelius/workspace/phdthesis/knitfiles.R",
+		"/home/aurelius/workspace/phdthesis/happened2013.md",
+		"/home/aurelius/workspace/phdthesis/happened2012.md",
+		"/home/aurelius/workspace/phdthesis/happened2011.md",
+		"/home/aurelius/workspace/phdthesis/plan.Rmd",
+		"/home/aurelius/workspace/phdthesis/.gitignore",
+		"/home/aurelius/workspace/phdthesis/current.Rmd",
+		"/home/aurelius/workspace/phdthesis/article.Rmd",
+		"/home/aurelius/.config/sublime-text-3/Packages/User/SublimeREPL.sublime-settings"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"- `",
+			"/home/aurelius/workspace/web/site_easterneurope/basic/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "website.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

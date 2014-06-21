@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Etusivu - Vaphana Solutions
+layout: default_en
+title: Main
 ---
 
 </br>
@@ -11,12 +11,24 @@ title: Etusivu - Vaphana Solutions
 Vaphana Solutions
 ---------------------------
 
-**Avoimen lähdekoodin tutkimusohjelmistokonstultointia**
+**Open Source Research Software Consulting**
 
-<!--
+
+
+
+<!-- This is image link --->
+
+
+
+
+<!-- 
+tässä oleva on piilossa
+
+
 ----
 
-### Uutta blogissa
+Latest in the blog
+-------------------------------
 
 Blog RSS here: <a title="blog RSS" href="http://easterneurope.github.io/feed.xml">
                     <i class="fa fa-rss-square"></i></a>
@@ -31,4 +43,6 @@ Blog RSS here: <a title="blog RSS" href="http://easterneurope.github.io/feed.xml
         {% endif %}
     {% endfor %}
     </div>
+
+
 -->
