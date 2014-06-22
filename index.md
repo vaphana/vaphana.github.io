@@ -11,7 +11,8 @@ title: Etusivu - Vaphana Solutions
 Vaphana Solutions
 ---------------------------
 
-**Avoimen lähdekoodin tutkimusohjelmistokonstultointia**
+**Avoimen lähdekoodin tutkimusohjelmistokonsultointia**
+
 
 <!--
 ----
