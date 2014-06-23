@@ -12,9 +12,17 @@ Nam suscipit vulputate quam. Integer feugiat massa at nisi bibendum, a tincidunt
 
 ## R
 
+<div class="jumbotron">
+  <h1>R-ohjelmointikieli</h1>
+  <p>Amerikkalaisen tietotekniikka-alan rekrytointisivuston <a href="http://www.dice.com/">dice.com</a>:in vuosittaisessa palkkakyselyssä R-ohjelmointikieli rankattiin parhaiten palkatuksi teknologitaidoksi</p>
+  <p><a href="http://marketing.dice.com/pdf/Dice_TechSalarySurvey_2014.pdf" class="btn btn-primary btn-lg">Katso lisää - Dice Tech Salary Survey</a></p>
+</div>
 
+## R + Shiny
 
-<iframe src="https://muuankarski.shinyapps.io/demo/" style="border: none; width: 700px; height: 650px"></iframe>
+Näyttävät vuorovaikutteiset analyysiympäristöt suoraan selaimessa.
+
+<iframe src="https://muuankarski.shinyapps.io/demo/" style="border:1px solid; width: 700px; height: 650px"></iframe>
 
 
 ## git & Github
